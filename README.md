@@ -9,3 +9,6 @@
 * и тогда я использовала *регулярное выражение ^\s*
 ![](https://github.com/yapaeonia/hw9/blob/master/nnn.png)
 ![](https://github.com/yapaeonia/hw9/blob/master/cnhjxrb.png)
+### Задание 2
+### Задание 3
+### Бонусное задание
