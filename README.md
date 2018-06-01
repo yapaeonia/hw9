@@ -8,3 +8,4 @@
 * но мной было обнаружено, что в тексте есть еще пустые строки с пробелами 
 * и тогда я использовала *регулярное выражение ^\s*
 ![](https://github.com/yapaeonia/hw9/blob/master/nnn.png)
+![](https://github.com/yapaeonia/hw9/blob/master/cnhjxrb.png)
