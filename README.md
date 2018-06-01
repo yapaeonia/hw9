@@ -10,5 +10,14 @@
 ![](https://github.com/yapaeonia/hw9/blob/master/nnn.png)
 ![](https://github.com/yapaeonia/hw9/blob/master/cnhjxrb.png)
 ### Задание 2
+* В этом задании я использовала *регулярное выражение [А-Я][а-яѣ]+слав[а-яѣ]+*
+* Всего упоминаний: 564
+![](https://github.com/yapaeonia/hw9/blob/master/2222.png)
 ### Задание 3
+* В этом задании я использовала *регулярное выражение Нов.город+[^.?!;:-]*
+* Упоминаний: 58
+![](https://github.com/yapaeonia/hw9/blob/master/nnn.png)
 ### Бонусное задание
+* В этом задании я использовала *регулярное выражение([!,.;:"?-])*
+* Заменила на $1
+![](https://github.com/yapaeonia/hw9/blob/master/бонус.png)
